@@ -62,7 +62,7 @@
 }
 
 .chatIcon {
-    height: 120px;
+    height: 120px!important;
     width: auto;
 }
 
